@@ -1,5 +1,5 @@
 # Hey, I'm Vasilis Tragas 👋
-**Aspiring Software / Cybersecurity Engineer · City, Country**
+**Aspiring Software / Cybersecurity Engineer · Athens, Greece**
 
 Computer Science student at the University of Derby. I enjoy building things,
 learning how systems work, and documenting my progress here on GitHub.
@@ -7,7 +7,7 @@ learning how systems work, and documenting my progress here on GitHub.
 ## About Me
 - 🎓 First-year BSc Computer Science student
 - 🔐 Interested in cybersecurity, networking and secure coding
-- 🌱 Currently learning Python, Linux and Git
+- 🌱 Currently learning Python, Linux and Git 
 
 ## Tech Stack
 **Languages**
