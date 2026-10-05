@@ -32,4 +32,5 @@ NONE YET.
 NONE YET
 
 ## Connect
-[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/vasilis-tragas) · [Website](None Yet)
+## Connect
+[LinkedIn](https://www.linkedin.com/in/vasilis-tragas/) · [GitHub](https://github.com/vasilistragas)
