@@ -29,8 +29,7 @@ NONE YET.
 - Secure coding
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+NONE YET
 
 ## Connect
 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/vasilis-tragas) · [Website](None Yet)
