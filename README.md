@@ -21,8 +21,7 @@ learning how systems work, and documenting my progress here on GitHub.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Featured Projects
-- [Project Name](https://github.com/USERNAME/repo) — one-line description
-- [Project Name](https://github.com/USERNAME/repo) — one-line description
+NONE YET.
 
 ## What I'm Learning
 - Networking fundamentals
@@ -34,4 +33,4 @@ learning how systems work, and documenting my progress here on GitHub.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) · [Website](https://yoursite.com)
+[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/vasilis-tragas) · [Website](None Yet)
